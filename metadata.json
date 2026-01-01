@@ -1,0 +1,5 @@
+{
+  "name": "D&D 5e Compendium",
+  "description": "A web application to browse, search, and manage Dungeons & Dragons 5th Edition content from an XML file. Users can upload their own compendium, explore spells, items, monsters, and more, with features for adding, editing, and exporting content.",
+  "requestFramePermissions": []
+}
